@@ -1,6 +1,6 @@
 # Screen Resolution
 
-Android app that shows you screen related metrics_
+Android app that shows you screen related metrics
 - density, width and height
 - scaledDensity, xdpi and ydpi
 - densityDpi
